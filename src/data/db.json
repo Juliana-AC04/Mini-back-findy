@@ -1,0 +1,89 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "nombre": "Lalisa Manoban",
+            "usuario": "Lisa",
+            "contraseña": "Pink_123",
+            "estado": "Don't be a lady, be a legend",
+            "urlPerfil": "https://iv1.lisimg.com/image/20042338/740full-lalisa-manoban.jpg",
+            "urlBanner": "https://rare-gallery.com/uploads/posts/341588-BLACKPINK-Kpop-K-pop-Lovesick-Girls-Lisa-Lalisa-Manoban-3636-Pranpriya-Manoban-3636-.jpg",
+            "seguidores":[2, 3, 4],
+            "seguidos":[2,3,4],
+            "totalLikes": 2,
+            "etiquetas":[]
+        },
+        {
+            "id": 2,
+            "nombre": "Kim Jennie",
+            "usuario": "Jennie",
+            "contraseña": "Black_123",
+            "estado": "Taste that pink venom",
+            "urlPerfil": "https://ilarge.lisimg.com/image/22555717/740full-jennie-kim.jpg",
+            "urlBanner": "https://images.wallpapersden.com/image/download/jennie-kim-4k_a2xmbGqUmZqaraWkpJRnZWltrWZmamc.jpg",
+            "seguidores":[1, 3, 4],
+            "seguidos":[1,3,4],
+            "totalLikes": 0,
+            "etiquetas":[1]
+        },
+        {
+            "id": 3,
+            "nombre": "Roseanne Park",
+            "usuario": "Rose",
+            "contraseña": "Rose+123",
+            "estado": "Rosé as a Rose",
+            "urlPerfil": "https://0.soompi.io/wp-content/uploads/2021/04/21000321/rose-2.jpeg",
+            "urlBanner": "https://wallpapercave.com/wp/wp10226315.jpg",
+            "seguidores":[1, 2, 4],
+            "seguidos":[1,2,4],
+            "totalLikes": 0,
+            "etiquetas":[1]
+
+        },
+        {
+            "id": 4,
+            "nombre": "Kim Jisoo",
+            "usuario": "Jisoo",
+            "contraseña": "Flower123",
+            "estado": "🌺",
+            "urlPerfil": "https://www.allkpop.com/upload/2021/07/content/072126/1625707587-2.jpg",
+            "urlBanner": "https://tse1.mm.bing.net/th?id=OIP.kipiF6mmAF6chhornlfaegHaEK&pid=Api&P=0&h=180",
+            "seguidores":[1, 2, 3],
+            "seguidos":[1,2,3],
+            "totalLikes": 0,
+            "etiquetas":[1]
+        }
+
+    ],
+    "publicaciones":[
+        {
+            "id": 1,
+            "idUsuario":1,
+            "categoria": "Imagen",
+            "recursos":["https://i.pinimg.com/736x/cd/13/b3/cd13b358a9832eea2ef78b6e5e44f76c.jpg"],
+            "descripcion": "Deja ir para encontrar",
+            "fecha": "11/04/2024",
+            "hora": "02:38 p.m.",
+            "etiquetados":[2,3,4],
+            "likes":[2,3,4]
+        }
+    ],
+    "comentarios":[
+        {
+            "id":1,
+            "idUsuario":2,
+            "idPublicacion": 1,
+            "fecha": "11/04/2024",
+            "hora": "02:40 p.m.",
+            "Mensaje": "Que linda te ves amiga."
+        },
+        {
+            "id":2,
+            "idUsuario":3,
+            "idPublicacion": 1,
+            "fecha": "11/04/2024",
+            "hora": "02:43 p.m.",
+            "Mensaje": "Divina"
+        }
+    ]
+}
