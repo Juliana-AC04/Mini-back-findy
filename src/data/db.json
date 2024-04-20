@@ -66,6 +66,28 @@
             "hora": "02:38 p.m.",
             "etiquetados":[2,3,4],
             "likes":[2,3,4]
+        },
+        {
+            "id": 2,
+            "idUsuario":3,
+            "categoria": "Album",
+            "recursos":["https://i0.wp.com/blackpinkupdate.com/wp-content/uploads/2019/06/1-BLACKPINK-Rose-Instagram-Update-7-June-2019.jpg?fit=1080,1349&ssl=1", "https://tse4.mm.bing.net/th?id=OIP.znjHIb93ak1gAf6Cyu6rKgHaHa&pid=Api&P=0&h=180"],
+            "descripcion": "En la cafeteria mas linda ☕🍪",
+            "fecha": "20/04/2024",
+            "hora": "06:20 p.m.",
+            "etiquetados":[1,2,4],
+            "likes":[1,2,3,4]
+        },
+        {
+            "id": 3,
+            "idUsuario":4,
+            "categoria": "Video",
+            "recursos":["https://www.tiktok.com/@bp_tiktok/video/7218024813162515713"],
+            "descripcion": "Amo como me veo en esta presentación 💗",
+            "fecha": "20/04/2024",
+            "hora": "07:20 p.m.",
+            "etiquetados":[1,2,3],
+            "likes":[1,2,3,4]
         }
     ],
     "comentarios":[
